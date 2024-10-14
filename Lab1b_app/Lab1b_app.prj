@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="Lab1b_app" location="C:/Users/mdsmith/workspace2/Lab1b_app" platform="C:/Users/mdsmith/workspace2/Lab1B/export/Lab1B/Lab1B.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="Lab1b_app_system" sysConfig="Lab1B" runtime="C/C++" cpu="standalone_domain" cpuInstance="microblaze_0" os="standalone" mssSignature="d293707a2a6ac1e92239bf3d42de64b3">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.1505715275" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.2101133877" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>
